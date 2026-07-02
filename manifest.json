@@ -12,15 +12,15 @@
   "lang": "ja",
   "icons": [
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%230d1117' width='192' height='192'/%3E%3Ctext x='96' y='115' font-family='monospace' font-size='56' fill='%2300ff41' text-anchor='middle'%3EP2P%3C/text%3E%3C/svg%3E",
+      "src": "https://res.cloudinary.com/dt0zmgv8k/image/upload/v1782980534/Untitled_logo_1_free-file_hd0edi.jpg",
       "sizes": "192x192",
-      "type": "image/svg+xml",
+      "type": "image/jpeg",
       "purpose": "any"
     },
     {
-      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect fill='%230d1117' width='512' height='512'/%3E%3Ctext x='256' y='300' font-family='monospace' font-size='150' fill='%2300ff41' text-anchor='middle'%3EP2P%3C/text%3E%3C/svg%3E",
+      "src": "https://res.cloudinary.com/dt0zmgv8k/image/upload/v1782980534/Untitled_logo_1_free-file_hd0edi.jpg",
       "sizes": "512x512",
-      "type": "image/svg+xml",
+      "type": "image/jpeg",
       "purpose": "any maskable"
     }
   ]
